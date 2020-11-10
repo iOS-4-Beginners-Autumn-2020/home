@@ -15,8 +15,8 @@ extension Int {
 
 //: Expected expressions
 
-//guard 100 == 10.squared else { throw TaskError() }
-//guard 4 == 2.squared else { throw TaskError() }
-//guard 25 == (-5).squared else { throw TaskError() }
+//guard 100 == 10.squared() else { throw TaskError() }
+//guard 4 == 2.squared() else { throw TaskError() }
+//guard 25 == (-5).squared() else { throw TaskError() }
 
 //: [Next](@next)
