@@ -1,0 +1,6 @@
+[submodule "Class3/MoveView"]
+	path = Class3/MoveView
+	url = https://github.com/iOS-4-Beginners-Autumn-2020/class3-moveview.git
+[submodule "Class3/AutoLayout"]
+	path = Class3/AutoLayout
+	url = https://github.com/iOS-4-Beginners-Autumn-2020/class3-autolayout.git
