@@ -4,3 +4,6 @@
 [submodule "Class3/AutoLayout"]
 	path = Class3/AutoLayout
 	url = https://github.com/iOS-4-Beginners-Autumn-2020/class3-autolayout.git
+[submodule "Class4/Joker"]
+	path = Class4/Joker
+	url = https://github.com/iOS-4-Beginners-Autumn-2020/class-4-joker.git
